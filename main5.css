@@ -1,0 +1,30 @@
+h1{
+    background-color: saddlebrown;
+    padding:100px 100px 100px 0px;
+    text-align: center;
+    margin-top: 0px;
+    font-style: normal;
+}
+body{
+    background-color: peru;
+    margin: 0px;
+}
+ #first a{
+    color: darkmagenta;
+}
+h2{
+    font-size: 25px;
+    /* font-style: inherit; */
+    font-weight: 900;
+}
+p{
+    font-size: 18px;
+}
+.violet{
+    color:;
+    
+}
+.blue{
+    color: rgb(35, 64, 88);
+
+}

@@ -1,0 +1,20 @@
+html{
+    background-color: green;
+}
+h1{
+    font-size: 45px;
+}
+p{
+    font-size: 20px;
+    font-family: serif;
+}
+ul{
+    font-size: 20px;
+    font-family: Cambria, Cochin, 
+    Georgia, Times, 'Times New Roman', serif;
+    border: 1px solid black ;
+    background-color: red;
+    line-height: 1.5;
+    box-shadow: black;
+    
+}

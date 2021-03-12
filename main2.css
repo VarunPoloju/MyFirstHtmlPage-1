@@ -1,0 +1,14 @@
+html{
+    background-color: gold;
+}
+h1{
+    font-size: 50px;
+}
+ul{
+    font-size: 20px;
+}
+body p{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

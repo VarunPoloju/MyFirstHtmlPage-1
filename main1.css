@@ -1,0 +1,26 @@
+html{
+    background-color: yellow;
+}
+h1{
+    color: maroon;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ul{
+    list-style: none;
+    color: rgb(61, 13, 235);
+    font-size:18px
+}
+ul li::before{
+    content: " \2022 ";
+    color:maroon;
+    display: inline-block;
+    font-weight: bold; 
+    width: 1em; 
+    margin-left: -1em;
+}
+p{
+    font-size: 18px;
+    color: darkred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
